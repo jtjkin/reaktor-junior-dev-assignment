@@ -1,0 +1,12 @@
+.spring-container {
+    display: flex;
+    justify-content: center;
+}
+
+.spring-ball {
+    background-color: rgb(51, 177, 177);
+    width: 1em;
+    height: 1em;
+    border-radius: 50%;
+    margin: 0.2em 0.2em 0.2em 0.2em;
+}
